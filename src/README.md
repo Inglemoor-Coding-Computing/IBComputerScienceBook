@@ -8,7 +8,7 @@ they can be used both as tutorials to follow along with, and as a reliable
 source for reference for those learning a topic.
 
 More specifically, this book will follow along with the International Baccalaureate Computer
-Science course at Inglemoor High School, as we believe there is a dearth of reliable
+Science curriculum at Inglemoor High School, as we believe there is a dearth of reliable
 information on this topic that is compiled in a friendly and accessible manner (and also because
 we don't have AP Computer Science :D). However,
 we may provide extra information that we think is helpful, or clarifications in case the material

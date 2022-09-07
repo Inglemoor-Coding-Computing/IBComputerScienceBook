@@ -2,7 +2,7 @@
 Created by [Inglemoor High School's Coding Club](https://www.inglemoorccc.org) and hosted
 on the same website!
 
-# Introduction
+## Introduction
 
 Why did we create this book? With the explosion of Computer Science
 material online, students and especially high schoolers looking to
@@ -19,7 +19,7 @@ we may provide extra information that we think is helpful, or clarifications in 
 does not make sense as is.
 
 
-# Why use this book?
+## Why use this book?
 We're a team of high school students that have a passion for computer science and a desire to share it with the world. 
 We've tried to write this book somewhat informally while still attempting to explain things properly, as we want to 
 retain our sense of humor and reach as many audiences as we can. Of course, we might make mistakes, in which case 
