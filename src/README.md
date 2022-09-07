@@ -1,7 +1,3 @@
-# IBComputerScienceBook
-Created by [Inglemoor High School's Coding Club](https://www.inglemoorccc.org) and hosted
-on the same website!
-
 # Introduction
 
 Why did we create this book? With the explosion of Computer Science
